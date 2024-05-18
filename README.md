@@ -5,7 +5,9 @@
 </p>
 
 ## Descrição
-0Bem-vindo ao Projeto de Smooth Scroll! Esta é uma aplicação React projetada para criar efeitos de rolagem suave em páginas da web. Utiliza bibliotecas como GSAP (GreenSock Animation Platform) para animações e gatilhos de rolagem para alcançar um comportamento de rolagem suave.
+Bem-vindo ao Projeto de Smooth Scroll! Esta é uma aplicação React projetada para criar efeitos de rolagem suave em páginas da web. Utiliza bibliotecas como GSAP (GreenSock Animation Platform) para animações e gatilhos de rolagem para alcançar um comportamento de rolagem suave.
+## Projeto Original
+- **Link**: https://www.youtube.com/watch?v=-CYruydmDfg&t=2s
 
 ## Visão Geral
 O Projeto de Smooth Scroll fornece funcionalidade de rolagem suave para aprimorar a experiência do usuário ao navegar pelo site. Utiliza componentes React e animações GSAP para criar transições visualmente atraentes entre as seções da página da web.
@@ -15,15 +17,14 @@ O Projeto de Smooth Scroll fornece funcionalidade de rolagem suave para aprimora
 - **Intro**: Renderiza uma seção introdutória com animações de rolagem suave.
 - **Descrição**: Exibe texto descritivo com efeitos de rolagem suave.
 - **Projetos**: Lista projetos com recursos interativos de rolagem suave.
-###Bibliotecas Utilizadas
+### Bibliotecas Utilizadas
 - **GSAP**: Utilizado para animações e efeitos de rolagem.
 - **React**: Utilizado para construir a interface do usuário.
 ## Como Começar
 Para executar o Projeto de Smooth Scroll localmente, siga estes passos:
 
 ### Clone o repositório:
-git clone [URL do repositório]
-npm install
-Inicie o servidor de desenvolvimento:
-npm run dev
-Abra seu navegador da web e acesse http://localhost:3000 para visualizar a aplicação.
+- git clone https://github.com/MatheusSCristo/smoothScroll
+- npm install
+- npm run dev
+- Abra seu navegador da web e acesse http://localhost:3000 para visualizar a aplicação.
